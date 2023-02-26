@@ -1,0 +1,2 @@
+INSERT INTO account (id, name, cpf, institution, type) VALUES (1,'Fulano', '11122233345', 'Banco Bradesco', 'Conta Corrente');
+INSERT INTO account (id, name, cpf, institution, type) VALUES (2,'Sicrano', '99988877765', 'Banco do Brasil', 'Conta Corrente');
